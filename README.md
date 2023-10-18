@@ -1,9 +1,10 @@
-# Group 7 - Project 4 – Data Analytics Bootcamp
+# Group 7 - Project 4 
+# Mushrooms! Edible or Poisonous
+
 ### Team Members:
 Emily Boulware, Shelby Reyes-Widrick, Jackeline Larios, Julian Pecino
 --
 
-# Mushrooms! Edible or Poisonous
 
 
 ## Main Conclusions:
