@@ -35,7 +35,7 @@ Since our dataset was so balanced and the machine learning models' performance e
 
 
 ## Conclusion
-We tested three models including Kneighbors, Random Forest, and Decision Tree. All three models were able to predict which mushrooms were edible or posionous based on the various features listed above at 99% to 100% accuracy. The most important features overall in determining if a mushroom was edible or poisonous were odor, gill size, bruises, texture of stalk surface, and spore color.
+We tested three models including Kneighbors, Random Forest, and Decision Tree. All three models were able to predict which mushrooms were edible or posionous, based on the various features listed above, at 99% to 100% accuracy. The most important features overall in determining if a mushroom was edible or poisonous were odor, gill size, bruises, texture of stalk surface, and spore color.
 
 ## References
 UCI Machine Learning. April 1987. Mushroom Classification, 2016. Retrieved October 5, 2023 from https://www.kaggle.com/datasets/uciml/mushroom-classification
