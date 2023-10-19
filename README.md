@@ -32,7 +32,9 @@ We were pleasantly surprised to see that the results using Decision Tree and Ran
 ![Alt text](https://github.com/JPecino/Toxic_Mushroom_Prediction/blob/main/Resources/Images/randomforest_report.png)
 
 Since our dataset was so balanced and the machine learning models' performance exceeded our expectations we then narrowed down the top siginificant features in the dataset and based our last model training on this smaller subset. We saw no decrease in performance and determined our model would continue to consistently deliver dependable results.
+
 ![Alt text](https://github.com/JPecino/Toxic_Mushroom_Prediction/blob/main/Resources/Images/imp_features.png)
+
 ![Alt text](https://github.com/JPecino/Toxic_Mushroom_Prediction/blob/main/Resources/Images/decisiontree_imp_report.png)
 
 
