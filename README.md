@@ -20,7 +20,7 @@ Since "poisonous" and "edible" were provided as "class" values in the dataset we
 
 ![Alt text](https://github.com/JPecino/Toxic_Mushroom_Prediction/blob/main/Resources/Images/vector_features.png)
 
-Our machine learning model was first trained with the K-Nearest Neighbor algorithm. We decided to start with this algorithm since it can be an ideal option for non-linear data and no assumptions would be made regarding underlying data. As shown, this model performed exceptionally well! 
+After encoding and then scaling the features, our machine learning model was first trained with the K-Nearest Neighbor algorithm. We decided to start with this algorithm since it can be an ideal option for non-linear data and no assumptions would be made regarding underlying data. As shown, this model performed exceptionally well! 
 
 ![Alt text](https://github.com/JPecino/Toxic_Mushroom_Prediction/blob/main/Resources/Images/knn_report.png)
 
