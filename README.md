@@ -20,11 +20,11 @@ Since "poisonous" and "edible" were provided as "class" values in the dataset we
 
 ![Alt text](https://github.com/JPecino/Toxic_Mushroom_Prediction/blob/main/Resources/Images/vector_features.png)
 
-Our machine learning model was first trained with the K-Nearest Neighbor algorithm. We decided to start with this algorithm since it's ideal option for non-linear data and wouldn't make assumptions regarding underlying data. As shown this model performed exceptionally well! 
+Our machine learning model was first trained with the K-Nearest Neighbor algorithm. We decided to start with this algorithm since it can be an ideal option for non-linear data and no assumptions would be made regarding underlying data. As shown, this model performed exceptionally well! 
 
 ![Alt text](https://github.com/JPecino/Toxic_Mushroom_Prediction/blob/main/Resources/Images/knn_report.png)
 
-Given that our first model performance significantly exceeded our expectations we decided to train our machine learning model with a few different algorithms to possibly help reduce overfitting and improve accuracy. 
+Given that our first model performance significantly exceeded our expectations, we decided to train our machine learning model with a few different algorithms to possibly help reduce overfitting and confirm accuracy. 
 We were pleasantly surprised to see that the results using Decision Tree and Random Forest algorithms also showed excellent accuracy scores over 99%.
 ![Alt text](https://github.com/JPecino/Toxic_Mushroom_Prediction/blob/main/Resources/Images/decisiontree_report.png)
 ![Alt text](https://github.com/JPecino/Toxic_Mushroom_Prediction/blob/main/Resources/Images/randomforest_report.png)
