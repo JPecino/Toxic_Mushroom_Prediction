@@ -7,7 +7,7 @@
  - [Julian Pecino](https://github.com/JPecino)
 
 ## Project Overview
-Wild mushroom identification plays a critical role for anyone foraging the wilderness for their food, and while there are many species of mushrooms that are safe for human consumption, there are also those that can cause adverse, possibly severe, effects if ingested. The objective of this machine learning project is to develop a model that can accurately classify mushrooms as either edible or poisonous based on their physical characteriscs. 
+Wild mushroom identification plays a critical role for anyone foraging the wilderness for their food, and while there are many species of mushrooms that are safe for human consumption, there are also those that can cause adverse, possibly severe, effects if ingested. The objective of this machine learning project is to develop a model that can accurately classify mushrooms as either edible or poisonous based on their physical characteristics. 
 
 ## Data
 The dataset used to train our machine learning model is from UC Irvine and contained 8,124 rows of data. This included many different features of mushrooms, including cap shape, cap surface, cap color, bruises, odor, gill-attachment, gill spacing, gill size, gill color, stalk shape, stalk root, stalk surfaces above and below ring, veil types, veil colors, ring numbers, ring types, spore print colors, population, and habitat. 
