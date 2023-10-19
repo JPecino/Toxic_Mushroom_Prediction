@@ -26,6 +26,7 @@ After encoding and then scaling the features, our machine learning model was fir
 
 Given that our first model performance significantly exceeded our expectations, we decided to train our machine learning model with a few different algorithms to possibly help reduce overfitting and confirm accuracy. 
 We were pleasantly surprised to see that the results using Decision Tree and Random Forest algorithms also showed excellent accuracy scores over 99%.
+
 ![Alt text](https://github.com/JPecino/Toxic_Mushroom_Prediction/blob/main/Resources/Images/decisiontree_report.png)
 
 ![Alt text](https://github.com/JPecino/Toxic_Mushroom_Prediction/blob/main/Resources/Images/randomforest_report.png)
